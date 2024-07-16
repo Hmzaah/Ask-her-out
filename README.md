@@ -1,6 +1,6 @@
 # ✋🏻
 
-<h1 align="center"> AskHerOut.js 🌹</h1>
+<h1 align="center"> 😄 </h1>
 
 ## 📖 Description
 
